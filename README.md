@@ -12,6 +12,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 2. **Start server**
 
 npm run dev
+
 Then , click on the host link and launch server.
 
 # Clone 
