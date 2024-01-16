@@ -1,4 +1,4 @@
-# Contact Form
+# Xdigics Technologies Contact Form
 # React & Vite
 
 1. **Usage:**
