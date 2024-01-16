@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Ameya 2"
 		}
 	],
 	"settings": {
@@ -9,6 +12,6 @@
 			"ostream": "cpp",
 			"iostream": "cpp"
 		},
-		"liveServer.settings.multiRootWorkspaceName": "CodeChef Questions"
+		"liveServer.settings.multiRootWorkspaceName": "Ameya 2"
 	}
 }
