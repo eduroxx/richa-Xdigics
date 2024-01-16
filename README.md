@@ -1,11 +1,12 @@
 # Xdigics Technologies Contact Form
 
-<h1>Basic Layout</h1> 
-<img src = "![Screenshot (139)](https://github.com/eduroxx/richa-Xdigics/assets/126091552/4d2ca62f-8b2c-4f40-9a8a-49a5ae1d28c2)"></img>
-
+<h2>Basic Layout</h2> 
+<img src = "![Screenshot 2024-01-16 150713](https://github.com/eduroxx/richa-Xdigics/assets/126091552/8e85af5b-0aa1-4783-8bfa-aac2e0d49926)
+"></img>
 
 <h2>Entering Details</h2>
-
+<img src = "![Screenshot 2024-01-16 151230](https://github.com/eduroxx/richa-Xdigics/assets/126091552/00ebebee-a19c-4e1c-8e54-aa1185ca1b20)
+"></img>
 
 # React & Vite
 
