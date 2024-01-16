@@ -1,7 +1,8 @@
 #root {
-  max-width: 1280px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 2rem;
+  background-color: #f0f0f0;
 }
 
 .logo {
@@ -10,15 +11,6 @@
   will-change: filter;
   transition: filter 300ms;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-/* .form-container {
-  display: flex;
-} */
 
 @keyframes logo-spin {
   from {
@@ -37,46 +29,65 @@
 
 .card {
   padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 body {
-  font-family:'Trebuchet MS', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-size: 17px;
+  background-color: #f0f0f0;
+  color: #333;
 }
 
 h1 {
   text-align: center;
+  font-size: 40px !important;
+  color: #0e626d;
 }
 
 .form-container {
   max-width: 500px;
   margin: 40px auto;
-  
 }
 
 label {
-  display:block;
+  display: block;
   margin-bottom: 8px;
+  color: #333;
 }
 
 input, textarea {
   width: 100%;
   padding: 10px;
   margin-bottom: 18px;
+  border: 1px solid #bbb;
+  border-radius: 8px;
 }
 
 button {
   display: block;
-  margin: 10 auto;
+  margin: 10px auto;
   padding: 15px;
   background-color: #4CAF50;
-  color:white;
-  border:none;
+  color: white;
+  border: none;
   border-radius: 15px;
-  cursor:pointer;
+  cursor: pointer;
+  transition: background-color 300ms;
 }
 
+button:hover {
+  background-color: #22a028;
+}
+
+#email {
+  margin-bottom: 0;
+}
+.error-message {
+  color: red;
+  margin: 0;
+  margin-bottom: 16px;
+  font-size: 14px;
+}
