@@ -16,6 +16,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -58,7 +59,8 @@ label {
   color: #333;
 }
 
-input, textarea {
+input,
+textarea {
   width: 100%;
   padding: 10px;
   margin-bottom: 18px;
@@ -85,6 +87,7 @@ button:hover {
 #email {
   margin-bottom: 0;
 }
+
 .error-message {
   color: red;
   margin: 0;

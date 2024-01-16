@@ -31,7 +31,7 @@ function App() {
 
     const { name, email, phone, text } = formData;
 
-    // Adjust the coordinates and spacing as needed
+    
     const startX = 20;
     const startY = 20;
     const lineHeight = 10;
@@ -40,7 +40,7 @@ function App() {
     pdf.text(startX, startY + lineHeight, `Email: ${email}`);
     pdf.text(startX, startY + 2 * lineHeight, `Phone Number: ${phone}`);
 
-    // Split text content into lines and add line breaks
+   
     const textLines = pdf.splitTextToSize(`Text Field: ${text}`, pdf.internal.pageSize.width - 40);
     textLines.forEach((line, index) => {
       pdf.text(startX, startY + (3 + index) * lineHeight, line);
