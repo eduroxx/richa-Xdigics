@@ -1,12 +1,5 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../Ameya 2"
-		}
-	],
+	"folders": [],
 	"settings": {
 		"files.associations": {
 			"ostream": "cpp",
