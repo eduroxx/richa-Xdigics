@@ -1,4 +1,13 @@
 # Xdigics Technologies Contact Form
+
+#Basic Layout
+<h1>Basic Layout</h1> 
+
+<img src="C:\Users\Richa Anchan\Pictures\Screenshots\Screenshot (139).png"></img>
+
+<h2>Entering Details</h2>
+<img src = "C:\Users\Richa Anchan\Pictures\Screenshots\Screenshot (140).png"></img>
+
 # React & Vite
 
 1. **Usage**
