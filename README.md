@@ -2,11 +2,12 @@
 
 #Basic Layout
 <h1>Basic Layout</h1> 
-
-<img src="C:\Users\Richa Anchan\Pictures\Screenshots\Screenshot (139).png"></img>
+<img src = "![Screenshot (139)](https://github.com/eduroxx/richa-Xdigics/assets/126091552/1b4a9121-f7d6-4ec2-a75a-a2bdbdc13c6b)
+"></img>
 
 <h2>Entering Details</h2>
-<img src = "C:\Users\Richa Anchan\Pictures\Screenshots\Screenshot (140).png"></img>
+<img src = "![Screenshot (140)](https://github.com/eduroxx/richa-Xdigics/assets/126091552/593aa936-0447-4bf9-b462-0d945f7c3c8b)
+"></img>
 
 # React & Vite
 
